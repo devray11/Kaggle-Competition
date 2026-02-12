@@ -24,6 +24,6 @@ problem domains.
 ---
 
 ## Notes
-- Rankings and percentages are computed from **public leaderboard positions**.
-- Results are subject to change as leaderboards update.
-- Detailed methodology and code are available within each competition directory.
+- All rankings reflect **public leaderboard results** at the time of submission.
+- Leaderboard positions may vary as competitions receive new submissions.
+- Emphasis is placed on **generalization and methodological clarity**, not leaderboard exploitation.
