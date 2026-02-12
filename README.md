@@ -1,8 +1,8 @@
 # Kaggle Competitions Portfolio
 
-This repository contains my solutions to selected Kaggle competitions.
-Each competition is organized in its own folder with a dedicated README
-explaining the problem, approach, evaluation metric, and results.
+This repository contains my solutions to Kaggle competitions, organized by
+competition. Each folder includes a dedicated README describing the problem,
+approach, evaluation metric, and results.
 
 ## Kaggle Profile
 🔗 **Kaggle:** https://www.kaggle.com/devmray2004
@@ -11,21 +11,11 @@ explaining the problem, approach, evaluation metric, and results.
 
 ## Competitions Overview
 
-### Titanic - Machine Learning from Disaster
-**Task:** Binary Classification  
-**Metric:** Accuracy  
+| # | Competition | Task | Metric | Public Rank | Public Score | Folder |
+|---|------------|------|--------|-------------|---------------|--------|
+| 1 | Titanic - Machine Learning from Disaster | Binary Classification | Accuracy | 183 / 12,334 (Top 0.81%) | 1.0000 | [`Titanic`](./Titanic) |
 
-- **Public Leaderboard Rank:** 183 / 12,334 (**Top 0.81%**)  
-- **Public Score:** 1.0000  
+---
 
-📁 Folder: `Titanic/`
+## Repository Structure
 
-**Citation:**
-```bibtex
-@misc{titanic,
-  author       = {Will Cukierski},
-  title        = {Titanic - Machine Learning from Disaster},
-  year         = {2012},
-  howpublished = {\url{https://kaggle.com/competitions/titanic}},
-  note         = {Kaggle}
-}
