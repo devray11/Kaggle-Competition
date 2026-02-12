@@ -149,10 +149,10 @@ Stratified 5-Fold Cross-Validation was used to evaluate performance.
 
 ---
 
-## Project Structure
+## Folder Structure / Project Structure
 
 ```
-Titanic/
+Titanic - Machine Learning from Disaster/
 ├── README.md
 ├── Output.csv
 ├── Titanic.py
