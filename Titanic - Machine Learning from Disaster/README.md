@@ -151,15 +151,18 @@ Stratified 5-Fold Cross-Validation was used to evaluate performance.
 
 ## Project Structure
 
+```
 Titanic/
 ├── README.md
-├── Output.csv (Main Result)
-├── Titanic.py (Main File)
+├── Output.csv
+├── Titanic.py
 ├── Leaderboard-Ranking.png
-├── Dataset/
-     ├── train.csv
-     ├── test.csv
-     ├── gender_submission.csv
+└── Dataset/
+    ├── train.csv
+    ├── test.csv
+    └── gender_submission.csv
+```
+
 
 
 ---
