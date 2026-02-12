@@ -8,7 +8,7 @@ https://www.kaggle.com/competitions/titanic
 ## Leaderboard Performance
 
 <p align="center">
-  <img src="L" alt="Titanic Leaderboard Ranking" width="700"/>
+  <img src="Titanic - Machine Learning from Disaster/Leaderboard-Ranking.png" alt="Titanic Leaderboard Ranking" width="700"/>
 </p>
 
 **Public Leaderboard Rank:** 183 / 12,334  
