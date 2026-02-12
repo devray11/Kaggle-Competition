@@ -1,7 +1,12 @@
 # Kaggle Competitions 
 
-This repository presents selected Kaggle competition solutions with
-verifiable public leaderboard performance and reproducible ML workflows.
+This repository showcases my work on Kaggle machine learning competitions.
+Each competition is documented with reproducible code, clear evaluation metrics,
+and publicly verifiable leaderboard performance.
+
+This portfolio is intended to demonstrate applied machine learning skills,
+problem-solving ability, and disciplined experimentation across different
+problem domains.
 
 ## Kaggle Profile
 🔗 https://www.kaggle.com/devmray2004
