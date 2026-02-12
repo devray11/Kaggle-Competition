@@ -4,7 +4,7 @@ This repository showcases my work on Kaggle machine learning competitions.
 Each competition is documented with reproducible code, clear evaluation metrics,
 and publicly verifiable leaderboard performance.
 
-This portfolio is intended to demonstrate applied machine learning skills,
+This ReadMe is intended to demonstrate applied machine learning skills,
 problem-solving ability, and disciplined experimentation across different
 problem domains.
 
