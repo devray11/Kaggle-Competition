@@ -8,7 +8,7 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 ## Leaderboard Performance
 
  <p align="center">
-  <img src="Leaderboard-Ranking.png" alt="House Prices Leaderboard Ranking" width="1000"/>
+  <img src="Leaderboard-Ranking" alt="House Prices Leaderboard Ranking" width="1000"/>
 </p>
 
 **Public Leaderboard Rank:** 2 / 4,241  
