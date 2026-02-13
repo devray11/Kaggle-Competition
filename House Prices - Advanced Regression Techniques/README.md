@@ -155,7 +155,17 @@ This ensures:
  
 ## Folder Structure / Project Structure
  
- 
+ ```
+House Prices - Advance Regression Techniques/
+├── README.md
+├── Output.csv
+├── HousePrices.py
+├── Leaderboard-Ranking.png
+└── Dataset/
+    ├── train.csv
+    ├── test.csv
+    └── sample_submission.csv
+```
  
 
 ---
