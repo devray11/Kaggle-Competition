@@ -102,7 +102,17 @@ These engineered features introduce nonlinear signal amplification without manua
 
 ## Folder Structure / Project Structure
 
-
+ ```
+Predicting Heart Disease/
+├── README.md
+├── Output.csv
+├── HeartDiseasess.py
+├── Leaderboard-Ranking.png
+└── Dataset/
+    ├── train.csv
+    ├── test.csv
+    └── sample_submission.csv
+```
 
 ---
 
